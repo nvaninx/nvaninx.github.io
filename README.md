@@ -1,2 +1,0 @@
-# nvaninx.github.io
-demo
